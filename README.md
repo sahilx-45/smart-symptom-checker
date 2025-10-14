@@ -1,33 +1,52 @@
-# 🩺 Smart Symptom Checker
+<h1 align="center">🩺 Smart Symptom Checker</h1>
 
-An intelligent **disease prediction web app** built using **Streamlit**, **Machine Learning**, and **SQLite database**.  
-This app predicts possible diseases based on symptoms selected by the user and provides medical suggestions instantly.
+<p align="center">
+  <b>An AI-powered disease prediction web app built using Streamlit, Machine Learning, and SQLite.</b><br>
+  Diagnose smarter. Visualize better. Stay informed.  
+</p>
 
----
-
-## 🚀 Features
-
-✅ **Interactive Streamlit UI** — Simple, clean, and user-friendly design  
-✅ **Disease Prediction** — Uses a Decision Tree Classifier trained on sample medical data  
-✅ **Patient Data Storage** — Stores predictions and details securely in a local SQLite database  
-✅ **Visual Analytics** — Shows probability charts and disease distribution pie charts  
-✅ **Recent Predictions** — Displays recent user predictions with delete option  
-✅ **Emergency Detection** — Alerts if critical diseases are predicted (e.g., COVID-19, Dengue, Malaria, Asthma)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite">
+  <img src="https://img.shields.io/badge/ScikitLearn-ML%20Model-orange?logo=scikitlearn">
+</p>
 
 ---
 
-## 🧠 Technologies Used
+## 🌟 Overview
+
+> The **Smart Symptom Checker** helps users predict possible diseases based on selected symptoms using a trained Decision Tree Machine Learning model.  
+> It also stores patient records in a local database and displays interactive probability charts — making it both **educational and practical**.
+
+---
+
+## ✨ Key Features
+
+- 🧠 **ML-Powered Prediction:** Decision Tree Classifier predicts most likely diseases.  
+- 🧍 **Patient Info Storage:** Saves patient details, contact, and prediction history in SQLite.  
+- 📊 **Visual Analytics:** Displays disease probabilities and overall disease trends in colorful charts.  
+- ⚕️ **Smart Health Advice:** Suggests whether to visit a general doctor or an emergency specialist.  
+- 🗂️ **Record Management:** View, analyze, or delete recent predictions from a modern UI.  
+
+---
+
+## 🧠 Tech Stack
 
 | Technology | Purpose |
-|-------------|----------|
-| **Python** | Core programming language |
-| **Streamlit** | Frontend web framework |
-| **scikit-learn** | Machine Learning (Decision Tree) |
-| **SQLite3** | Local database to store user predictions |
-| **Matplotlib** | Visualization (bar & pie charts) |
-| **Pandas** | Data handling and manipulation |
+|------------|---------|
+| 🐍 Python | Core programming language |
+| 🎨 Streamlit | Frontend UI framework |
+| 🤖 scikit-learn | Machine Learning (Decision Tree) |
+| 🗃️ SQLite3 | Local database for predictions |
+| 📈 Matplotlib | Data visualization |
+| 🧾 Pandas | Data handling and analysis |
 
 ---
 
-## 🧩 Project Structure
+## ⚙️ Installation Guide
 
+### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/sahilx-45/smart-symptom-checker.git
+cd smart-symptom-checker

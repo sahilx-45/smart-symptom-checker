@@ -1,6 +1,10 @@
 <h1 align="center">🩺 Smart Symptom Checker</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/github/views/sahilx-45/smart-symptom-checker?style=flat-square" alt="GitHub views">
+</p>
+
+<p align="center">
   <b>An AI-powered web app that predicts possible diseases based on your symptoms!</b><br>
   Built with <b>Python</b>, <b>Streamlit</b>, <b>Machine Learning</b> & <b>SQLite</b>.
 </p>
@@ -11,7 +15,6 @@
   <img src="https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite" alt="SQLite">
   <img src="https://img.shields.io/badge/ScikitLearn-ML%20Model-orange?logo=scikitlearn" alt="Scikit-learn">
   <img src="https://img.shields.io/github/stars/sahilx-45/smart-symptom-checker?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/views/sahilx-45/smart-symptom-checker?style=flat-square" alt="GitHub views">
 </p>
 
 ---

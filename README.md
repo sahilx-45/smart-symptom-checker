@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite" alt="SQLite">
   <img src="https://img.shields.io/badge/ScikitLearn-ML%20Model-orange?logo=scikitlearn" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/github/stars/sahilx-45/smart-symptom-checker?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/views/sahilx-45/smart-symptom-checker?style=flat-square" alt="GitHub views">
 </p>
 
 ---
